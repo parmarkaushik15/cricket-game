@@ -1,23 +1,48 @@
-//http://localhost:19006/
+import React from 'react';
+import { NavigationContainer } from '@react-navigation/native';
+// ❌ Old
+// import { createStackNavigator } from '@react-navigation/stack';
 
-import React from "react";
-import { NavigationContainer } from "@react-navigation/native";
-import { createNativeStackNavigator } from "@react-navigation/native-stack";
-import HomeScreen from "./src/screens/HomeScreen";
-import MatchScreen from "./src/screens/MatchScreen";
-import PointsTableScreen from "./src/screens/PointsTableScreen";
-import PlayerStatsScreen from "./src/screens/PlayerStatsScreen";
+// ✅ New
+import { createNativeStackNavigator as createStackNavigator } from '@react-navigation/native-stack';
 
-const Stack = createNativeStackNavigator();
+import HomeScreen from './src/screens/HomeScreen';
+import MatchScreen from './src/screens/MatchScreen';
+import TournamentScreen from './src/screens/TournamentScreen'; // Optional if using tournaments
+
+const Stack = createStackNavigator();
 
 export default function App() {
   return (
     <NavigationContainer>
-      <Stack.Navigator initialRouteName="Home">
-        <Stack.Screen name="Home" component={HomeScreen} />
-        <Stack.Screen name="Match" component={MatchScreen} />
-        <Stack.Screen name="PointsTable" component={PointsTableScreen} />
-        <Stack.Screen name="PlayerStats" component={PlayerStatsScreen} />
+      <Stack.Navigator
+        initialRouteName="Home"
+        screenOptions={{
+          headerStyle: { backgroundColor: '#0A3D62' },
+          headerTintColor: '#fff',
+          headerTitleStyle: { fontWeight: 'bold' },
+        }}
+      >
+        {/* Home Screen */}
+        <Stack.Screen
+          name="Home"
+          component={HomeScreen}
+          options={{ title: 'Cricket World Championship' }}
+        />
+
+        {/* Match Screen */}
+        <Stack.Screen
+          name="MatchScreen"
+          component={MatchScreen}
+          options={{ title: 'Play Match' }}
+        />
+
+        {/* Tournament Screen (Optional) */}
+        <Stack.Screen
+          name="TournamentScreen"
+          component={TournamentScreen}
+          options={{ title: 'Tournaments' }}
+        />
       </Stack.Navigator>
     </NavigationContainer>
   );

@@ -1,1 +1,489 @@
-[]
+[
+  {
+    "_id": "1753967522893",
+    "teamA": "Team India",
+    "teamB": "Team Australia",
+    "type": "T20",
+    "status": "Live",
+    "scorecard": [
+      {
+        "batsman": "Rohit Sharma",
+        "runs": 0,
+        "balls": 0
+      },
+      {
+        "batsman": "Virat Kohli",
+        "runs": 0,
+        "balls": 0
+      },
+      {
+        "batsman": "Shubman Gill",
+        "runs": 0,
+        "balls": 0
+      },
+      {
+        "batsman": "Suryakumar Yadav",
+        "runs": 0,
+        "balls": 0
+      },
+      {
+        "batsman": "KL Rahul",
+        "runs": 0,
+        "balls": 0
+      },
+      {
+        "batsman": "Hardik Pandya",
+        "runs": 0,
+        "balls": 0
+      },
+      {
+        "batsman": "Ravindra Jadeja",
+        "runs": 0,
+        "balls": 0
+      },
+      {
+        "batsman": "R Ashwin",
+        "runs": 0,
+        "balls": 0
+      },
+      {
+        "batsman": "Mohammed Shami",
+        "runs": 0,
+        "balls": 0
+      },
+      {
+        "batsman": "Jasprit Bumrah",
+        "runs": 0,
+        "balls": 0
+      },
+      {
+        "batsman": "Kuldeep Yadav",
+        "runs": 0,
+        "balls": 0
+      }
+    ],
+    "bowling": [
+      {
+        "bowler": "David Warner",
+        "overs": 0,
+        "runs": 0
+      },
+      {
+        "bowler": "Steve Smith",
+        "overs": 0,
+        "runs": 0
+      },
+      {
+        "bowler": "Marnus Labuschagne",
+        "overs": 0,
+        "runs": 0
+      },
+      {
+        "bowler": "Travis Head",
+        "overs": 0,
+        "runs": 0
+      },
+      {
+        "bowler": "Glenn Maxwell",
+        "overs": 0,
+        "runs": 0
+      },
+      {
+        "bowler": "Cameron Green",
+        "overs": 0,
+        "runs": 0
+      },
+      {
+        "bowler": "Alex Carey",
+        "overs": 0,
+        "runs": 0
+      },
+      {
+        "bowler": "Pat Cummins",
+        "overs": 0,
+        "runs": 0
+      },
+      {
+        "bowler": "Mitchell Starc",
+        "overs": 0,
+        "runs": 0
+      },
+      {
+        "bowler": "Josh Hazlewood",
+        "overs": 0,
+        "runs": 0
+      },
+      {
+        "bowler": "Nathan Lyon",
+        "overs": 0,
+        "runs": 0
+      }
+    ]
+  },
+  {
+    "_id": "253752c1-7f03-47ac-8446-c205574be2e3",
+    "teamA": "Team India",
+    "teamB": "Team Australia",
+    "type": "T20",
+    "status": "Live",
+    "scorecard": [
+      {
+        "batsman": "Rohit Sharma",
+        "runs": 0,
+        "balls": 0
+      },
+      {
+        "batsman": "Virat Kohli",
+        "runs": 0,
+        "balls": 0
+      },
+      {
+        "batsman": "Shubman Gill",
+        "runs": 0,
+        "balls": 0
+      },
+      {
+        "batsman": "Suryakumar Yadav",
+        "runs": 0,
+        "balls": 0
+      },
+      {
+        "batsman": "KL Rahul",
+        "runs": 0,
+        "balls": 0
+      },
+      {
+        "batsman": "Hardik Pandya",
+        "runs": 0,
+        "balls": 0
+      },
+      {
+        "batsman": "Ravindra Jadeja",
+        "runs": 0,
+        "balls": 0
+      },
+      {
+        "batsman": "R Ashwin",
+        "runs": 0,
+        "balls": 0
+      },
+      {
+        "batsman": "Mohammed Shami",
+        "runs": 0,
+        "balls": 0
+      },
+      {
+        "batsman": "Jasprit Bumrah",
+        "runs": 0,
+        "balls": 0
+      },
+      {
+        "batsman": "Kuldeep Yadav",
+        "runs": 0,
+        "balls": 0
+      }
+    ],
+    "bowling": [
+      {
+        "bowler": "David Warner",
+        "overs": 0,
+        "runs": 0
+      },
+      {
+        "bowler": "Steve Smith",
+        "overs": 0,
+        "runs": 0
+      },
+      {
+        "bowler": "Marnus Labuschagne",
+        "overs": 0,
+        "runs": 0
+      },
+      {
+        "bowler": "Travis Head",
+        "overs": 0,
+        "runs": 0
+      },
+      {
+        "bowler": "Glenn Maxwell",
+        "overs": 0,
+        "runs": 0
+      },
+      {
+        "bowler": "Cameron Green",
+        "overs": 0,
+        "runs": 0
+      },
+      {
+        "bowler": "Alex Carey",
+        "overs": 0,
+        "runs": 0
+      },
+      {
+        "bowler": "Pat Cummins",
+        "overs": 0,
+        "runs": 0
+      },
+      {
+        "bowler": "Mitchell Starc",
+        "overs": 0,
+        "runs": 0
+      },
+      {
+        "bowler": "Josh Hazlewood",
+        "overs": 0,
+        "runs": 0
+      },
+      {
+        "bowler": "Nathan Lyon",
+        "overs": 0,
+        "runs": 0
+      }
+    ],
+    "createdAt": "2025-07-31T13:22:50.402Z"
+  },
+  {
+    "_id": "9b6022ab-7835-40be-aa1a-00745e9fbd7c",
+    "teamA": "Team India",
+    "teamB": "Team Australia",
+    "type": "T20",
+    "status": "Live",
+    "scorecard": [
+      {
+        "batsman": "Rohit Sharma",
+        "runs": 0,
+        "balls": 0
+      },
+      {
+        "batsman": "Virat Kohli",
+        "runs": 0,
+        "balls": 0
+      },
+      {
+        "batsman": "Shubman Gill",
+        "runs": 0,
+        "balls": 0
+      },
+      {
+        "batsman": "Suryakumar Yadav",
+        "runs": 0,
+        "balls": 0
+      },
+      {
+        "batsman": "KL Rahul",
+        "runs": 0,
+        "balls": 0
+      },
+      {
+        "batsman": "Hardik Pandya",
+        "runs": 0,
+        "balls": 0
+      },
+      {
+        "batsman": "Ravindra Jadeja",
+        "runs": 0,
+        "balls": 0
+      },
+      {
+        "batsman": "R Ashwin",
+        "runs": 0,
+        "balls": 0
+      },
+      {
+        "batsman": "Mohammed Shami",
+        "runs": 0,
+        "balls": 0
+      },
+      {
+        "batsman": "Jasprit Bumrah",
+        "runs": 0,
+        "balls": 0
+      },
+      {
+        "batsman": "Kuldeep Yadav",
+        "runs": 0,
+        "balls": 0
+      }
+    ],
+    "bowling": [
+      {
+        "bowler": "David Warner",
+        "overs": 0,
+        "runs": 0
+      },
+      {
+        "bowler": "Steve Smith",
+        "overs": 0,
+        "runs": 0
+      },
+      {
+        "bowler": "Marnus Labuschagne",
+        "overs": 0,
+        "runs": 0
+      },
+      {
+        "bowler": "Travis Head",
+        "overs": 0,
+        "runs": 0
+      },
+      {
+        "bowler": "Glenn Maxwell",
+        "overs": 0,
+        "runs": 0
+      },
+      {
+        "bowler": "Cameron Green",
+        "overs": 0,
+        "runs": 0
+      },
+      {
+        "bowler": "Alex Carey",
+        "overs": 0,
+        "runs": 0
+      },
+      {
+        "bowler": "Pat Cummins",
+        "overs": 0,
+        "runs": 0
+      },
+      {
+        "bowler": "Mitchell Starc",
+        "overs": 0,
+        "runs": 0
+      },
+      {
+        "bowler": "Josh Hazlewood",
+        "overs": 0,
+        "runs": 0
+      },
+      {
+        "bowler": "Nathan Lyon",
+        "overs": 0,
+        "runs": 0
+      }
+    ],
+    "createdAt": "2025-07-31T13:37:03.216Z"
+  },
+  {
+    "_id": "24cd8ede-10ff-4691-83ac-433b6072361a",
+    "teamA": "Team India",
+    "teamB": "Team Australia",
+    "type": "T20",
+    "status": "Live",
+    "scorecard": [
+      {
+        "batsman": "Rohit Sharma",
+        "runs": 0,
+        "balls": 0
+      },
+      {
+        "batsman": "Virat Kohli",
+        "runs": 0,
+        "balls": 0
+      },
+      {
+        "batsman": "Shubman Gill",
+        "runs": 0,
+        "balls": 0
+      },
+      {
+        "batsman": "Suryakumar Yadav",
+        "runs": 0,
+        "balls": 0
+      },
+      {
+        "batsman": "KL Rahul",
+        "runs": 0,
+        "balls": 0
+      },
+      {
+        "batsman": "Hardik Pandya",
+        "runs": 0,
+        "balls": 0
+      },
+      {
+        "batsman": "Ravindra Jadeja",
+        "runs": 0,
+        "balls": 0
+      },
+      {
+        "batsman": "R Ashwin",
+        "runs": 0,
+        "balls": 0
+      },
+      {
+        "batsman": "Mohammed Shami",
+        "runs": 0,
+        "balls": 0
+      },
+      {
+        "batsman": "Jasprit Bumrah",
+        "runs": 0,
+        "balls": 0
+      },
+      {
+        "batsman": "Kuldeep Yadav",
+        "runs": 0,
+        "balls": 0
+      }
+    ],
+    "bowling": [
+      {
+        "bowler": "David Warner",
+        "overs": 0,
+        "runs": 0
+      },
+      {
+        "bowler": "Steve Smith",
+        "overs": 0,
+        "runs": 0
+      },
+      {
+        "bowler": "Marnus Labuschagne",
+        "overs": 0,
+        "runs": 0
+      },
+      {
+        "bowler": "Travis Head",
+        "overs": 0,
+        "runs": 0
+      },
+      {
+        "bowler": "Glenn Maxwell",
+        "overs": 0,
+        "runs": 0
+      },
+      {
+        "bowler": "Cameron Green",
+        "overs": 0,
+        "runs": 0
+      },
+      {
+        "bowler": "Alex Carey",
+        "overs": 0,
+        "runs": 0
+      },
+      {
+        "bowler": "Pat Cummins",
+        "overs": 0,
+        "runs": 0
+      },
+      {
+        "bowler": "Mitchell Starc",
+        "overs": 0,
+        "runs": 0
+      },
+      {
+        "bowler": "Josh Hazlewood",
+        "overs": 0,
+        "runs": 0
+      },
+      {
+        "bowler": "Nathan Lyon",
+        "overs": 0,
+        "runs": 0
+      }
+    ],
+    "createdAt": "2025-07-31T13:39:45.955Z"
+  }
+]

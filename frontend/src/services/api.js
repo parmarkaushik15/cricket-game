@@ -1,6 +1,9 @@
 import axios from "axios";
 
-const API_BASE = "http://localhost:5000/api"; // replace with your server IP if on device
+import { API_BASE as ENV_API, SOCKET_URL as ENV_SOCKET } from '@env';
+
+export const API_BASE = ENV_API || "http://localhost:5000/api";
+export const SOCKET_URL = ENV_SOCKET || "http://localhost:5000"; 
 
 export const getMatches = async () => {
   const res = await axios.get(`${API_BASE}/matches`);
